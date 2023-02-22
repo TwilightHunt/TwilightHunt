@@ -34,9 +34,9 @@ const about = {
 
 ## Projects
 - [Telegram clone](https://github.com/TwilightHunt/fullstack-messenger) 
-- [Gmail clone](https://github.com/TwilightHunt/fullstack-messenger) (old educational)
+- [Gmail clone](https://github.com/TwilightHunt/fake-gmail-client) (old educational)
 - [SPA online-market](https://github.com/TwilightHunt/takeaway-and-delivery) (old educational)
-- [Hellivery](https://github.com/https://github.com/TwilightHunt/hellivery) (Game for Siberian Game Jam / participation)
+- [Hellivery](https://github.com/TwilightHunt/hellivery) (Game for Siberian Game Jam / participation)
 
 ## 📩 Contact me
 - [Telegram](https://t.me/communism_chan) 
