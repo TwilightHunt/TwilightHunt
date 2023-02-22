@@ -32,7 +32,7 @@ const about = {
 - C# (Major)
 - C++
 
-## Projects
+## 🍉Projects
 - [Telegram clone](https://github.com/TwilightHunt/fullstack-messenger) 
 - [Gmail clone](https://github.com/TwilightHunt/fake-gmail-client) (old educational)
 - [SPA online-market](https://github.com/TwilightHunt/takeaway-and-delivery) (old educational)
