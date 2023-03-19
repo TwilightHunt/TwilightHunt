@@ -5,7 +5,7 @@ const about = {
   fullName: "Vera Lavrentyeva",
   age: 18,
   location: "Moscow, Russia",
-  languages: [
+  languages: {
     russian: {
       level: 'native'
     },
@@ -14,7 +14,7 @@ const about = {
     },
     japanese: {
       level: 'JLPT5'
-    ]
+    }
   }
  ```
 ## 🔥 Tech Stack
