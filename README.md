@@ -5,7 +5,7 @@ const about = {
   fullName: "Vera Lavrentyeva",
   age: 18,
   location: "Moscow, Russia",
-  languages: {
+  languages: [
     russian: {
       level: 'native'
     },
@@ -14,7 +14,7 @@ const about = {
     },
     japanese: {
       level: 'JLPT5'
-    }
+    ]
   }
  ```
 ## 🔥 Tech Stack
@@ -28,14 +28,13 @@ const about = {
 - CSS3
 - Scss
 ## 💻 Languages I know
-- JavaScript (Major)
-- C# (Major)
+- JavaScript (Main)
+- C# (Main)
 - C++
 
 ## 🍉 Projects
 - [Telegram clone](https://github.com/TwilightHunt/fullstack-messenger) 
 - [Gmail clone](https://github.com/TwilightHunt/fake-gmail-client) (old educational)
-- [SPA online-market](https://github.com/TwilightHunt/takeaway-and-delivery) (old educational)
 - [Hellivery](https://github.com/TwilightHunt/hellivery) (Game for Siberian Game Jam / participation)
 
 ## 📩 Contact me
