@@ -18,12 +18,14 @@ const about = {
   }
  ```
 ## 🔥 Tech Stack
-- Vue3
+- Vue 3
   - Pinia / VUEX
   - Vue-Router
   - Composition / Option API
   - Vuetify
-- JS
+  - Nuxt 2/3
+- JavaScript
+- TypeScript
 - HTML5
 - CSS3
 - Scss
