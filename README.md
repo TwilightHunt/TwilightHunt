@@ -10,7 +10,7 @@ const about = {
       level: 'native'
     },
     english: {
-      level: 'B1'
+      level: 'B2'
     },
     japanese: {
       level: 'JLPT5'
@@ -30,13 +30,14 @@ const about = {
 - CSS3
 - Scss
 ## 💻 Languages I know
+- TypeScript (Main)
 - JavaScript (Main)
-- C# (Main)
+- C#
 - C++
 
 ## 🍉 Projects
-- [Telegram clone](https://github.com/TwilightHunt/fullstack-messenger) 
-- [Gmail clone](https://github.com/TwilightHunt/fake-gmail-client) (old educational)
+- [VK Filter](https://github.com/TwilightHunt/vk-filter)
+- [Telegram clone](https://github.com/TwilightHunt/fullstack-messenger) (old educational)
 - [Hellivery](https://github.com/TwilightHunt/hellivery) (Game for Siberian Game Jam / participation)
 
 ## 📩 Contact me
