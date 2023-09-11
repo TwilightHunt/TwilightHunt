@@ -10,7 +10,7 @@ const about = {
       level: 'native'
     },
     english: {
-      level: 'B2'
+      level: 'B1'
     },
     japanese: {
       level: 'JLPT5'
