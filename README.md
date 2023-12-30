@@ -3,7 +3,7 @@
 const about = {
   major: "Frontend Developer",
   fullName: "Vera Lavrentyeva",
-  age: 18,
+  age: 19,
   location: "Moscow, Russia",
   languages: {
     russian: {
