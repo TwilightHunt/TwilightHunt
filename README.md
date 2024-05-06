@@ -42,5 +42,5 @@ const about = {
 - [Hellivery](https://github.com/TwilightHunt/hellivery) (Game for Siberian Game Jam / participation)
 
 ## 📩 Contact me
-- [Telegram](https://t.me/kvizdo1) 
+- [Telegram](https://t.me/tw_hunt) 
 - Email: aprilis-2s@ya.ru
