@@ -7,13 +7,13 @@ const about = {
   location: "Moscow, Russia",
   languages: {
     russian: {
-      level: 'native'
+      level: "native"
     },
     english: {
-      level: 'B1'
+      level: "B2"
     },
     japanese: {
-      level: 'JLPT5'
+      level: "JLPT5"
     }
   }
 }
